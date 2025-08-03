@@ -7,7 +7,7 @@ import { Github, Linkedin, Mail } from "lucide-react";
 
 interface HistoryItem {
   value: string;
-  content: any;
+  content: string | React.ReactNode;
 }
 
 export default function Terminal() {
@@ -369,7 +369,7 @@ Type 'help' to see available commands`;
             </pre>
           </div>
           <div className="text-gray-400">
-            Type 'help' to see available commands.
+            <span>Type &apos;help&apos; to see available commands.</span>
           </div>
         </div>
 
