@@ -154,6 +154,19 @@ Available commands:
         Stack:$~ Next.js, Node.js, Express, Gemini,Firebase, Firestore,
         WebContainer{" "}
       </h3>
+      <a
+        href="https://phantom-ai-raffay.vercel.app/"
+        target="_blank"
+        className="p-6"
+      >
+        <img
+          src="phantom.JPG"
+          alt=""
+          height={340}
+          width={560}
+          className="rounded-2xl m-auto border-2 border-red-700"
+        />
+      </a>
       <ul className="list-disc list-outside  pl-5">
         <li>
           Built an AI-powered platform that generates full React and React
@@ -242,6 +255,19 @@ Available commands:
       <h3>
         Stack:$~ Next.js, Express, Manim, Gemini API, MongoDB, Clerk, Docker
       </h3>
+      <a
+        href="https://www.linkedin.com/feed/update/urn:li:activity:7353150025230639105/"
+        target="_blank"
+        className="p-6"
+      >
+        <img
+          src="ilm.JPG"
+          alt=""
+          height={340}
+          width={560}
+          className="rounded-2xl m-auto border-2 border-red-700"
+        />
+      </a>
       <ul className="list-disc list-outside pl-5 ">
         <li className="break-words whitespace-normal ">
           Built an AI platform that turns prompts into animated educational
@@ -282,7 +308,19 @@ Available commands:
       </div>
 
       <h3>Stack:$~ React, Tailwind CSS, Clerk</h3>
-
+      <a
+        href="https://invoicify-three.vercel.app/"
+        target="_blank"
+        className="p-6"
+      >
+        <img
+          src="invoicify.JPG"
+          alt=""
+          height={340}
+          width={560}
+          className="rounded-2xl m-auto border-2 border-red-700"
+        />
+      </a>
       <ul className="list-disc list-outside pl-5">
         <li>
           Build professional invoices in seconds with a privacy-first, secure
@@ -325,6 +363,19 @@ Available commands:
       <h3>
         Stack:$~ Node.js, Selenium, React, Tailwind CSS, MongoDB, Docker, Tor
       </h3>
+      <a
+        href="https://twitter-scraper-swart.vercel.app/"
+        target="_blank"
+        className="p-6"
+      >
+        <img
+          src="x.JPG"
+          alt=""
+          height={340}
+          width={560}
+          className="rounded-2xl m-auto border-2 border-red-700"
+        />
+      </a>
 
       <ul className="list-disc list-outside pl-5">
         <li>
@@ -370,6 +421,19 @@ Available commands:
       <h3>
         Stack:$~ Node.js, Express, React, React Query , MongoDB, JWT, bcrypt
       </h3>
+      <a
+        href="https://library-application-with-role-based.vercel.app/"
+        target="_blank"
+        className="p-6"
+      >
+        <img
+          src="library.JPG"
+          alt=""
+          height={340}
+          width={560}
+          className="rounded-2xl m-auto border-2 border-red-700"
+        />
+      </a>
 
       <ul className="list-disc list-outside pl-5">
         <li>
@@ -414,6 +478,19 @@ Available commands:
       <h3>
         Stack:$~ Next.js, Node.js, Express, MongoDB, Clerk, Tailwind CSS, JWT
       </h3>
+      <a
+        href="https://multi-tenant-platform-six.vercel.app/"
+        target="_blank"
+        className="p-6"
+      >
+        <img
+          src="multi.JPG"
+          alt=""
+          height={340}
+          width={560}
+          className="rounded-2xl m-auto border-2 border-red-700"
+        />
+      </a>
 
       <ul className="list-disc list-outside pl-5">
         <li>
