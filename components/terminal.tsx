@@ -164,7 +164,7 @@ Available commands:
           alt=""
           height={340}
           width={560}
-          className="rounded-2xl m-auto border-2 border-red-700"
+          className="rounded-2xl m-auto border-2 border-red-700 hover:scale-105 transition-transform duration-500"
         />
       </a>
       <ul className="list-disc list-outside  pl-5">
@@ -265,7 +265,7 @@ Available commands:
           alt=""
           height={340}
           width={560}
-          className="rounded-2xl m-auto border-2 border-red-700"
+          className="rounded-2xl m-auto border-2 border-red-700 hover:scale-105 transition-transform duration-500"
         />
       </a>
       <ul className="list-disc list-outside pl-5 ">
@@ -318,7 +318,7 @@ Available commands:
           alt=""
           height={340}
           width={560}
-          className="rounded-2xl m-auto border-2 border-red-700"
+          className="rounded-2xl m-auto border-2 border-red-700 hover:scale-105 transition-transform duration-500"
         />
       </a>
       <ul className="list-disc list-outside pl-5">
@@ -373,7 +373,7 @@ Available commands:
           alt=""
           height={340}
           width={560}
-          className="rounded-2xl m-auto border-2 border-red-700"
+          className="rounded-2xl m-auto border-2 border-red-700 hover:scale-105 transition-transform duration-500"
         />
       </a>
 
@@ -431,7 +431,7 @@ Available commands:
           alt=""
           height={340}
           width={560}
-          className="rounded-2xl m-auto border-2 border-red-700"
+          className="rounded-2xl m-auto border-2 border-red-700 hover:scale-105 transition-transform duration-500"
         />
       </a>
 
@@ -478,6 +478,7 @@ Available commands:
       <h3>
         Stack:$~ Next.js, Node.js, Express, MongoDB, Clerk, Tailwind CSS, JWT
       </h3>
+
       <a
         href="https://multi-tenant-platform-six.vercel.app/"
         target="_blank"
@@ -488,7 +489,7 @@ Available commands:
           alt=""
           height={340}
           width={560}
-          className="rounded-2xl m-auto border-2 border-red-700"
+          className="rounded-2xl m-auto border-2 border-red-700 hover:scale-105 transition-transform duration-500"
         />
       </a>
 
