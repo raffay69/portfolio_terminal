@@ -623,7 +623,10 @@ Available commands:
   // Scroll to bottom when history updates
   useEffect(() => {
     if (terminalRef.current) {
-      terminalRef.current.scrollTop = terminalRef.current.scrollHeight;
+      terminalRef.current.scrollTo({
+        top: terminalRef.current.scrollHeight,
+        behavior: "smooth",
+      });
     }
   }, [history]);
 
